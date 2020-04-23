@@ -1,5 +1,5 @@
 # COVID-19-Diagnosis-System
-Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients.
+Detect Covid-19 using Deep Learning from X-Ray/CT scans of patients.
 
 
 ## Dataset
